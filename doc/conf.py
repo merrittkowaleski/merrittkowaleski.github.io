@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Merritt Kowaleski\'s personal page'
+project = 'Merritt Kowaleski'
 copyright = '2025, Merritt Kowaleski'
 author = 'Merritt Kowaleski'
 release = '0.2'
